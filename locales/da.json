@@ -1,0 +1,33 @@
+{
+  "command.help": "Åbn item spawner",
+
+  "err.no_session": "Kør kommandoen igen for at åbne item spawneren.",
+  "err.not_allowed": "Du har ikke adgang til det.",
+  "err.session_expired": "Din session er udløbet. Kør kommandoen igen.",
+  "err.rate_limited": "Rolig nu, du spawner for mange ting for hurtigt.",
+  "err.no_response": "Serveren svarede ikke. Blev scriptet genstartet?",
+
+  "err.bad_request": "Ugyldig forespørgsel.",
+  "err.unknown_item": "Det item findes ikke i ox_inventory.",
+  "err.blacklisted": "Det item kan ikke spawnes.",
+  "err.bad_count": "Ugyldigt antal.",
+  "err.empty_selection": "Du har ikke valgt noget.",
+  "err.selection_too_large": "Du har valgt for mange items.",
+
+  "err.meta_type": "Metadata skal være en tabel.",
+  "err.meta_depth": "Metadata er for dybt bygget op.",
+  "err.meta_key": "Metadata-nøgler skal være korte.",
+  "err.meta_keys": "Der er for mange metadata-nøgler.",
+  "err.meta_value": "Metadata må kun indeholde tekst, tal eller ja/nej-værdier.",
+
+  "err.bad_target": "Ugyldig spiller.",
+  "err.target_offline": "Spilleren er ikke online.",
+
+  "err.no_room": "Der er ikke nok plads.",
+  "err.add_failed": "Kunne ikke give item.",
+  "err.no_items": "Der er ingen items i ox_inventory.",
+
+  "err.bad_preset_name": "Preset-navnet skal være mellem 1 og 48 tegn.",
+  "err.preset_limit": "Du har nået grænsen for presets.",
+  "err.unknown_preset": "Det preset findes ikke længere."
+}
