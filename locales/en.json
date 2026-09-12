@@ -23,8 +23,8 @@
   "err.bad_target": "Invalid target.",
   "err.target_offline": "That player is not online.",
 
-  "err.no_room": "no room",
-  "err.add_failed": "inventory rejected it",
+  "err.no_room": "No room",
+  "err.add_failed": "Inventory rejected it",
   "err.no_items": "ox_inventory has no items registered.",
 
   "err.bad_preset_name": "Preset names must be 1-48 characters.",

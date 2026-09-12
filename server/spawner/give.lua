@@ -18,7 +18,10 @@ local function onlineIds()
     local ids = {}
 
     for i = 1, #raw do
-        ids[i] = tonumber(raw[i])
+        local id = tonumber(raw[i])
+        if id then
+            ids[#ids + 1] = id
+        end
     end
 
     return ids
